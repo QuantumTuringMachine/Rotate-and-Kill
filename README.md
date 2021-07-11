@@ -1,10 +1,10 @@
 We implement three algorithms for finding MAT(maximum area triangle) in a convex polygon.
 
-  MAT-CM.h: implementation of an algorithm by Chadran and Mount (published in IJCGA 92).
+-  MAT-CM.h: implementation of an algorithm by Chadran and Mount (published in IJCGA 92).
 
-  MAT-K.h: implementation of an algorithm by Kallus (arXiv 1706.03049).
+-  MAT-K.h: implementation of an algorithm by Kallus (arXiv 1706.03049).
 
-  MAT-A.h: implementation of our algorithm based on Rotate-and-Kill.  ("A" stands for anonymity)
+-  MAT-A.h: implementation of our algorithm based on Rotate-and-Kill.  ("A" stands for anonymity)
 
 ------
 
@@ -29,8 +29,8 @@ experiment(VC).exe: exe file of experiment.cpp (complied by VC -- release mode o
 
 Results of the experiment are shown in:
 
-  exp-GCC.png, exp-gcc.txt, exp-VC.png, exp-VC.txt,
+-  GCC.png and VC.png,
   
 under the following running eviroment:
 
-   Thinkpand X1 carbon 6th. (windows 10 64bit, i7-8550U CPU @1.80GHz 1.99GHz, 8GB/RAM).
+-  Thinkpand X1 carbon 6th. (windows 10 64bit, i7-8550U CPU @1.80GHz 1.99GHz, 8GB/RAM).
