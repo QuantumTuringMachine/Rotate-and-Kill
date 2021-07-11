@@ -31,6 +31,6 @@ Results of the experiment are shown in:
 
 -  GCC.png and VC.png,
   
-under the following running eviroment:
+Running eviroment:
 
 -  Thinkpand X1 carbon 6th. (windows 10 64bit, i7-8550U CPU @1.80GHz 1.99GHz, 8GB/RAM).
