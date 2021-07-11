@@ -21,7 +21,7 @@ experiment.cpp is the main cpp file which tests the three algorithms using the d
 
     ?A.txt ?C.txt ?K.txt: The number of iterations used by the three algorithms respectively.
 
-experiment(GCC).exe: exe file of experiment.cpp (complied by MinGW GCC -- release mode).
+experiment(GCC).exe: exe file of experiment.cpp (complied by TDM-GCC 4.9.2 64-bit release).
 
 experiment(VC).exe: exe file of experiment.cpp (complied by VC -- release mode of VS2018).
 
